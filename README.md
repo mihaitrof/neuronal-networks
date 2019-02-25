@@ -1,4 +1,4 @@
-# neuronal-networks
+# Intro to neuronal networks
 
 This repository aims to store a set of exercises that represent an intro to neuronal networks. The labs and the homeworks 
 are provided by the "University of Alexandru Ioan Cuza" from Iasi, Romania, within "Neuronal networks" course.
