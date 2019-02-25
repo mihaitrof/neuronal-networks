@@ -5,5 +5,5 @@ are provided by the "University of Alexandru Ioan Cuza" from Iasi, Romania, with
 
 ## Lab 1
 #### _Python exercises_
-1) Test whether or not a number is prime
+1) Check if a number is prime
 2) Sort alphabetically the words from text.txt
