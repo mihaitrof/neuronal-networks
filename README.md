@@ -7,3 +7,4 @@ are provided by the "University of Alexandru Ioan Cuza" from Iasi, Romania, with
 #### _Python exercises_
 1) Check if a number is prime
 2) Sort alphabetically the words from `text.txt`
+3) Matrix multiplication
