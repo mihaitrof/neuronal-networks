@@ -78,7 +78,8 @@ if 0:
     print(np.sqrt(array2))
 
 # Exercise 3
-a1 = np.random.randint(0, 2, (5, 3))
-print(a1)
-trans = np.transpose(a1)
-print(trans)
+if 0:
+    a1 = np.random.randint(0, 2, (5, 3))
+    print(a1)
+    trans = a1.T
+    print(trans)

@@ -22,4 +22,4 @@ are provided by the "University of Alexandru Ioan Cuza" from Iasi, Romania, with
 The length of the arrays must be the same
     - Display which array has the sum of the elements greater
     - Sum up the arrays. Then, compute the multiplication of the arrays (vectorial and scalar)
-    
+3) Print the transpose of a matrix
