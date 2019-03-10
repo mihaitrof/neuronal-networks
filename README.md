@@ -23,3 +23,9 @@ The length of the arrays must be the same
     - Display which array has the sum of the elements greater
     - Sum up the arrays. Then, compute the multiplication of the arrays (vectorial and scalar)
 3) Print the transpose of a matrix
+
+## Homework 1
+#### _Python way_
+1) Convert the data from `data.txt` file into matrix.
+2) Compute the inverse of a matrix:
+   - Compute the determinant of the matrix (Check to be != 0)
