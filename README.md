@@ -29,3 +29,6 @@ The length of the arrays must be the same
 1) Convert the data from `data.txt` file into matrix.
 2) Compute the inverse of a matrix:
    - Compute the determinant of the matrix (Check to be != 0)
+   - Transpose the original matrix
+   - Compute matrix star
+   - Find the inverse of the original matrix
